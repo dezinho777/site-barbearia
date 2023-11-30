@@ -1,5 +1,9 @@
  header{
-    background-color: aquamarine;
+    background-color: pink;
+    color: black;
+}
+body{
+    background-color: lightpink;
     color: black;
 }
 
@@ -16,8 +20,8 @@ ul {
 }
 
 footer{ 
-
-
+background-color: aquamarine;
+color: blueviolet;
 
 
 
